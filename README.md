@@ -1,2 +1,2 @@
 # FirstWebsite
-Copyright @ Mohammed Umar Karimi and Mohibkhan Pathan
+Copyright @Mohammed Umar Karimi and @Mohibkhan Pathan
